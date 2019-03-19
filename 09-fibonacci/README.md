@@ -1,4 +1,4 @@
-# Exercise XX - fibonacci
+# Exercise 09 - fibonacci
 
 Create a function that returns a specific member of the fibonacci sequence:
 
